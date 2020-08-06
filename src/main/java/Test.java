@@ -1,3 +1,4 @@
 public class Test{
-public String name2="Feoz";
+public tring name2="Feoz";
+public static String name1="ABHIT";
 }
